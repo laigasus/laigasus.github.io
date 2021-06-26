@@ -36,6 +36,7 @@ comments:
     repo: laigasus/blog-comment	# your public comments repository (e.g. owner/repo)
     issue-term: pathname		# Issue term (e.g. "comment" consider issues with this word in the title as comments)
     crossorigin: anonymous
+    theme: preferred-color-scheme
 
 # PAGINATION
 paginate: 5
