@@ -21,7 +21,7 @@ tags: [Socket, Linux]
 
 ### 로직
 
-![mmi_logic](C:\Users\옥재욱\Downloads\mmi_logic.png)
+![mmi_logic](https://github.com/laigasus/laigasus.github.io/blob/main/assets/img/posts_resource/mmi_logic.png?raw=true)
 
 
 
