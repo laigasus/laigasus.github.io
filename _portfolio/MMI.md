@@ -1,12 +1,10 @@
 ---
 layout: post
 title: UDR MMI
-img: "assets/img/portfolio/ninja.png"
+img: "https://github.com/laigasus/laigasus.github.io/blob/main/assets/img/posts_resource/mmi_result.png?raw=true"
 date: July, 08 2021
 tags: [Socket, Linux]
 ---
-
-![image]({{ page.img | relative_url }})
 
 # UDR MMI
 
@@ -29,7 +27,7 @@ tags: [Socket, Linux]
 
 ### 결과
 
-![mmi_result](C:\Users\옥재욱\Desktop\mmi_result.png)
+![mmi_result](https://github.com/laigasus/laigasus.github.io/blob/main/assets/img/posts_resource/mmi_result.png?raw=true)
 
 
 
